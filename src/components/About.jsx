@@ -22,10 +22,10 @@ const About = () => {
         being able to build front-end applications using industry standards like
         React and TailwindCSS.
       </p>
-      <h3 className="text-base font-bold md:text-lg mb-2">
+      <h3 className="text-base font-bold md:text-lg mb-5">
         The technologies I use regularly:
       </h3>
-      <ul className="grid grid-cols-2 gap-y-3 md:gap-y-5 md:text-lg">
+      <ul className="grid grid-cols-2 gap-y-3 md:gap-y-5 md:text-lg md:grid-cols-3">
         <li className="flex items-center gap-2">
           <SiReact className="h-5 w-5 md:h-6 md:w-6 text-[#61dafb]" />
           React

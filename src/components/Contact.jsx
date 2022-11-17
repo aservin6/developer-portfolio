@@ -27,7 +27,7 @@ const Contact = () => {
             className="p-2 mb-4 bg-transparent border border-zinc-900 dark:border-zinc-100 rounded-md focus:outline-none"
           />
           <button
-            type="button"
+            type="submit"
             className="text-center inline-block px-8 py-2 text-base font-medium rounded-md text-slate-100 dark:text-slate-900 bg-rose-700 dark:bg-sky-300 md:w-max"
           >
             Send

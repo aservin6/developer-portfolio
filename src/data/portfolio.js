@@ -3,8 +3,8 @@ export default [
     title: "Crypto Tracker",
     image: "/assets/crypto-tracker.jpg",
     stack: ["React", "TailwindCSS", "JavaScript"],
-    link: "https://crypto-tracker-aservin.netlify.app/",
-    repoLink: "https://github.com/aservin6/crypto-tracker",
+    link: "https://crypto-tracker-v2-aservin.netlify.app/",
+    repoLink: "https://github.com/aservin6/crypto-tracker-v2",
   },
   {
     title: "Product Landing Page",

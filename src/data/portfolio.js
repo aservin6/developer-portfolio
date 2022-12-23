@@ -11,7 +11,7 @@ export default [
     image: "/assets/product-landing-page.jpg",
     stack: ["React", "TailwindCSS", "Vite"],
     link: "https://akuma-landing-page.netlify.app/",
-    repoLink: "https://github.com/aservin6/Tailwind-Landing-Page",
+    repoLink: "https://github.com/aservin6/akuma-landing-page",
   },
   {
     title: "Best Buy Clone",

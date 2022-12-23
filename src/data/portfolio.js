@@ -2,7 +2,7 @@ export default [
   {
     title: "Crypto Tracker",
     image: "/assets/crypto-tracker.jpg",
-    stack: ["React", "TailwindCSS", "Vite"],
+    stack: ["React", "TailwindCSS", "Firebase"],
     link: "https://crypto-tracker-v2-aservin.netlify.app/",
     repoLink: "https://github.com/aservin6/crypto-tracker-v2",
   },

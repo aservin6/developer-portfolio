@@ -2,15 +2,15 @@ export default [
   {
     title: "Crypto Tracker",
     image: "/assets/crypto-tracker.jpg",
-    stack: ["React", "TailwindCSS", "JavaScript"],
+    stack: ["React", "TailwindCSS", "Vite"],
     link: "https://crypto-tracker-v2-aservin.netlify.app/",
     repoLink: "https://github.com/aservin6/crypto-tracker-v2",
   },
   {
     title: "Product Landing Page",
     image: "/assets/product-landing-page.jpg",
-    stack: ["HTML", "TailwindCSS", "JavaScript"],
-    link: "https://landing-page-aservin.netlify.app/",
+    stack: ["React", "TailwindCSS", "Vite"],
+    link: "https://akuma-landing-page.netlify.app/",
     repoLink: "https://github.com/aservin6/Tailwind-Landing-Page",
   },
   {

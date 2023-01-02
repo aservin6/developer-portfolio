@@ -1,4 +1,3 @@
-import React from "react";
 import { BsGlobe, BsCode } from "react-icons/bs";
 
 const PortfolioItem = ({ title, image, stack, link, repoLink }) => {
@@ -12,9 +11,9 @@ const PortfolioItem = ({ title, image, stack, link, repoLink }) => {
         />
       </a>
       <div className="w-full px-4 pt-4 pb-2 bg-zinc-100 dark:bg-zinc-900 rounded-b-[4px]">
-        <h3 className="text-lg md:text-xl text-rose-700 dark:text-sky-300 mb-2 md:mb-3 font-semibold">
+        <h2 className="text-lg md:text-xl text-rose-700 dark:text-sky-300 mb-2 md:mb-3 font-semibold">
           {title}
-        </h3>
+        </h2>
         <p className="flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm dark:text-white">
           {stack.map((item, index) => (
             <span

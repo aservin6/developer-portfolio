@@ -1,4 +1,3 @@
-import React from "react";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 
 const Intro = () => {
@@ -17,16 +16,18 @@ const Intro = () => {
         </p>
         <div className="flex items-center justify-center mb-2 md:mb-3 md:gap-3">
           <a
-            className="p-2 rounded-lg hover:bg-black hover:bg-opacity-10 dark:hover:bg-white dark:hover:bg-opacity-10 transition-[background] duration-300"
+            className="p-2.5 rounded-lg hover:bg-black hover:bg-opacity-10 dark:hover:bg-white dark:hover:bg-opacity-10 transition-[background] duration-300"
             href="https://www.linkedin.com/in/servinalex/"
             target="_blank"
+            aria-label="Link to my LinkedIn profile"
           >
             <BsLinkedin className="w-5 h-5 md:w-7 md:h-7" />
           </a>
           <a
-            className="p-1.5 rounded-lg hover:bg-black hover:bg-opacity-10 dark:hover:bg-white dark:hover:bg-opacity-10 transition-[background] duration-300"
+            className="p-2.5 rounded-lg hover:bg-black hover:bg-opacity-10 dark:hover:bg-white dark:hover:bg-opacity-10 transition-[background] duration-300"
             href="https://github.com/aservin6"
             target="_blank"
+            aria-label="Link to my Github profile"
           >
             <BsGithub className="w-5 h-5 md:w-7 md:h-7" />
           </a>

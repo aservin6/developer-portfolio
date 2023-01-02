@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { MdOutlineLightMode, MdOutlineDarkMode } from "react-icons/md";
 
 const ThemeSwitch = () => {
@@ -29,6 +29,7 @@ const ThemeSwitch = () => {
       type="button"
       onClick={handleThemeSwitch}
       className="flex ml-auto mr-5 text-zinc-900 dark:text-zinc-100 text-lg p-1.5 rounded-lg hover:bg-black hover:bg-opacity-10 dark:hover:bg-white dark:hover:bg-opacity-10 transition-all duration-500"
+      aria-label="theme switcher"
     >
       {theme === "dark" ? (
         <MdOutlineLightMode className="w-6 h-6" />

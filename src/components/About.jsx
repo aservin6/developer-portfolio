@@ -14,9 +14,12 @@ const About = () => {
         About
       </h2>
       <p className="text-base font-bold mb-6 md:text-lg">
-        I wrote my first line of HTML and CSS in an Intro to Web Development
-        class in my junior year of high school, but it wasn't until November
-        2021 that I decided to fully commit to being a Front-End developer. I started from square one, relearning HTML and haven't stopped since. Now I'm able to build front-end applications using industry standards like React and TailwindCSS.
+        I first learned HTML and CSS in a high school web development class, but
+        it wasn't until November 2021 that I made the decision to become a
+        full-time front-end developer. I started from the beginning and worked
+        my way up, constantly learning and improving my skills. Now, I am
+        proficient in technologies such as React and TailwindCSS and able to
+        build professional front-end applications.
       </p>
       <h3 className="text-base font-bold md:text-lg mb-5">
         The technologies I use regularly:

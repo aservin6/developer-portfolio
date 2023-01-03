@@ -10,7 +10,7 @@ import {
 const About = () => {
   return (
     <div className="mx-auto border-l border-zinc-900 dark:border-zinc-100 pl-4 mb-16 w-full max-w-3xl">
-      <h2 className="text-2xl text-rose-700 dark:text-sky-300 font-bold underline underline-offset-4 decoration-4 mb-3">
+      <h2 className="text-2xl text-rose-600 dark:text-sky-300 font-bold underline underline-offset-4 decoration-4 mb-3">
         About
       </h2>
       <p className="text-base font-bold mb-6 md:text-lg">

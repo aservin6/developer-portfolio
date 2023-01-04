@@ -34,7 +34,7 @@ const Intro = () => {
           </a>
           <a
             className="p-2.5 rounded-lg hover:bg-black hover:bg-opacity-10 dark:hover:bg-white dark:hover:bg-opacity-10 transition-[background] duration-300"
-            href="/AlejandroServin_Resume.pdf"
+            href="/Alejandro_Servin_Resume.pdf"
             aria-label="download resume"
             title="Download my resume"
             download

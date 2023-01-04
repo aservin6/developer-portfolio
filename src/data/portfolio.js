@@ -25,6 +25,6 @@ export default [
     image: "/assets/dev-portfolio.jpg",
     stack: ["React", "TailwindCSS", "Vite"],
     link: "https://www.servinalex.com/",
-    repoLink: "https://github.com/aservin6/frontend-portfolio",
+    repoLink: "https://github.com/aservin6/developer-portfolio",
   },
 ];

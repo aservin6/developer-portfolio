@@ -15,7 +15,7 @@ const About = () => {
       </h2>
       <p className="text-base font-bold mb-6 md:text-lg">
         I first learned HTML and CSS in a high school web development class, but
-        it wasn't until November 2021 that I made the decision to become a
+        it wasn't until late 2021 that I made the decision to become a
         full-time front-end developer. I started from the beginning and worked
         my way up, constantly learning and improving my skills. Now, I am
         proficient in technologies such as React and TailwindCSS and able to

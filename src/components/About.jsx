@@ -36,7 +36,7 @@ const About = () => {
         </li>
         <li className="flex items-center gap-2">
           <SiJavascript className="h-5 w-5 md:h-6 md:w-6 text-[#fcdc00]" />
-          Javascript (ES6+)
+          Javascript
         </li>
         
         <li className="flex items-center gap-2">

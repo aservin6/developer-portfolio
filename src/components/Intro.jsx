@@ -28,7 +28,6 @@ const Intro = () => {
             href="https://github.com/aservin6"
             target="_blank"
             aria-label="Link to my Github profile"
-            
           >
             <BsGithub className="w-5 h-5 md:w-7 md:h-7" />
           </a>
@@ -43,11 +42,9 @@ const Intro = () => {
           </a>
         </div>
         <p className="text-base font-bold max-w-xl md:text-lg">
-          I'm a web developer with a passion for{" "}
-          <span className="text-rose-600 dark:text-sky-300">development</span>{" "}
-          and <span className="text-rose-600 dark:text-sky-300">design</span>.
-          The projects below have helped me exercise my abilities and prepare
-          for my career in tech.
+          I'm a passionate Front-End Developer that turns ideas into
+          interactive, user-friendly experiences. The projects below showcase
+          some of my abilities and the technologies I use.
         </p>
       </div>
     </section>
